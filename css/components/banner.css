@@ -1,0 +1,18 @@
+.banner {
+  color: #fff;
+  padding: 220px 0;
+}
+
+.banner h1, .banner p {
+  margin: 0;
+}
+
+.banner p {
+color: white;
+opacity: .7;
+font-size: 20px;
+}
+
+.banner h1 {
+  padding-bottom: 20px;
+}
